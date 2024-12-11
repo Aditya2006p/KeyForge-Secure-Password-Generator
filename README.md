@@ -2,6 +2,9 @@
 
 KeyForge is a user-friendly tool that generates strong, random, and secure passwords to protect your online accounts. Built with HTML, CSS, and JavaScript, it allows you to customize password length and complexity based on your security needs.
 
+<img width="1446" alt="Screenshot 2024-12-11 at 6 28 09 PM" src="https://github.com/user-attachments/assets/e80f9d46-a971-4b71-ae07-6fcd325319bd">
+
+
 🚀 Features
 	•	Customizable Password Length: Choose how long you want your password to be.
 	•	Character Options: Include uppercase letters, lowercase letters, numbers, and special characters.
