@@ -36,15 +36,18 @@ Password-Generator/
      .  git clone https://github.com/your-username/password-generator.git
 *
      .  cd password-generator
+     
 *
 
 	2.	Open the Project:
+
+
 	•	Open index.html in your favorite web browser.
 
 🖥️ Live Demo
 
 View Live Demo
-(Replace with your live GitHub Pages link)
+([Live Demo](https://aditya2006p.github.io/KeyForge-Secure-Password-Generator/))
 
 🤝 Contributions
 
@@ -55,7 +58,5 @@ Contributions are welcome! If you have ideas to improve the app, feel free to fo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ✨ Author
-	•	Your Name
-(Replace with your GitHub profile link)
-
-This README file is detailed yet concise, making it suitable for showcasing your project on GitHub. Be sure to update placeholders with your actual information!
+	•	Aditya Pandey
+([GitHub profile link](https://github.com/Aditya2006p))
